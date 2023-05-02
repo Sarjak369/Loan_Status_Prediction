@@ -12,17 +12,17 @@ Problem Statement:
 Automate the loan eligibility process (real-time) based on customer detail provided while filling the online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History, and others.
 
 𝐓𝐚𝐛𝐥𝐞 𝐨𝐟 𝐂𝐨𝐧𝐭𝐞𝐧𝐭𝐬 ✅:
-● Introduction
-● Business problem
-● Importing Modules
-● Dataset Analysis
-● Handling Missing Values - Categorical & Numerical
-● Outliers Detection & Handling
-● Analysis of Categorical Data with Target
-● Data Preparation
-● Handling Imbalance Data
-● Creating Multiple Models & Choose The Ideal One
-● Model Building
+-> Introduction
+-> Business problem
+-> Importing Modules
+-> Dataset Analysis
+-> Handling Missing Values - Categorical & Numerical
+-> Outliers Detection & Handling
+-> Analysis of Categorical Data with Target
+-> Data Preparation
+-> Handling Imbalance Data
+-> Creating Multiple Models & Choose The Ideal One
+-> Model Building
 
 Models: KNeighborsClassifier, SVC, DecisionTreeClassifier, LogisticRegression, GaussianNB, RandomForestClassifier
 
